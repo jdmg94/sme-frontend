@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "label": "Neapolitan",
+      "image": "https://mklibrary-frogstonemedia.netdna-ssl.com/wp-content/uploads/2018/05/Neapolitan-Style-Margherita-Pizza-featured-900x600.jpg",
+      "description": "Credited as being the original Italian pizza, characterized by its light, slightly crispy texture."
+    },
+    {
+      "id": 2,
+      "label": "New York-Style",
+      "image": "https://slice.seriouseats.com/images/20101007-pizza-lab-sauce-11.JPG",
+      "description": "Slightly crispy on the outside, yet soft and pliable enough to fold the big slices in half, making it easier for customers to eat."
+    },
+    {
+      "id": 3,
+      "label": "Deep Dish",
+      "image": "https://cdn.cdkitchen.com/recipes/images/2016/04/7547-5804-mx.jpg",
+      "description": "This pizza’s deep ledge allows for a generous portion of toppings, cheese, and sauce."
+    },
+    {
+      "id":4,
+      "label": "flatbread",
+      "image": "https://www.seriouseats.com/recipes/images/2011/08/20110818-pizza-lab-greek-primary-1.jpg",
+      "description": "Lighter and airier making it ideal for appetizers and personal-sized pizzas."
+    },
+    {
+      "id": 5,
+      "label": "Pan Pizza",
+      "image": "https://www.yeprecipes.com/data/media/7/pizza-hut-pepperoni-pan-pizza-original.jpg",
+      "description": "Definitely not thin crust, and the least thick of the thick varieties at about half an inch, the traditional pan pizza is a happy medium for most pizza lovers."
+    },
+    {
+      "id": 6,
+      "label": "Sicilian",
+      "image": "https://www.seriouseats.com/images/2016/05/20160503-spicy-spring-pizza-primary.jpg",
+      "description": " Much different from the thin, crispy crust in Naples, Sicilian pizza is known for its thick, rectangle-shaped crust, often over an inch thick."
+    },
+    {
+      "id": 7,
+      "label": "St. Louis-Style",
+      "image": "https://i.imgur.com/PascBtI.jpg",
+      "description": "Characterized by its round, thin, unleavened, cracker-like crust and slices cut into squares or rectangles rather than wedges."
+    }
+  ]
+}

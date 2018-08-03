@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "label": "Pepperoni",
+      "price": 0.5
+    },
+    {
+      "id": 2,
+      "label": "Salami",
+      "price": 0.5
+    },
+    {
+      "id": 3,
+      "label": "Pancetta",
+      "price": 0.5
+    },
+    {
+      "id": 4,
+      "label": "Anchovies",
+      "price": 0.5
+    },
+    {
+      "id": 5,
+      "label": "pinapple",
+      "price": 0.5
+    },
+    {
+      "id": 6,
+      "label": "Olives",
+      "price": 0.5
+    },
+    {
+      "id": 7,
+      "label": "Italian Sausage",
+      "price": 0.5
+    },
+    {
+      "id": 8,
+      "label": "Ham",
+      "price": 0.5
+    },
+    {
+      "id": 9,
+      "label": "Zuccini",
+      "price": 0.5
+    },
+    {
+      "id": 10,
+      "label": "Eggplant",
+      "price": 0.5
+    },
+    {
+      "id": 11,
+      "label": "Egg",
+      "price": 0.5
+    },
+    {
+      "id": 12,
+      "label": "Mushrooms",
+      "price": 0.5
+    },
+    {
+      "id": 13,
+      "label": "Shrimp",
+      "price": 0.5
+    },
+    {
+      "id": 14,
+      "label": "Jalapeño",
+      "price": 0.5
+    },
+    {
+      "id": 15,
+      "label": "Cherry Tomatoes",
+      "price": 0.5
+    }
+  ]
+}

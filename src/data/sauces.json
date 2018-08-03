@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "label": "Marinara",
+      "image": "https://static1.squarespace.com/static/530e4e29e4b0ac922f793833/t/5555c385e4b0cc5c1ed841bc/1431683988769/Motorino-Pizza-Margherita-5.jpeg?format=500w",
+      "description": "Italian tomato sauce, made with tomatoes, garlic, herbs, and onions."
+    },
+    {
+      "id": 2,
+      "label": "Alfredo",
+      "image": "http://assets.kraftfoods.com/recipe_images/opendeploy/120201_640x428.jpg",
+      "description": "Made of butter, heavy cream, and Parmesan cheese, with generous grindings of pepper to help add spark to all that richness."
+    },
+    {
+      "id": 3,
+      "label": "Bianca",
+      "image": "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/53/2017/07/Winter-pizza-bianca-320x211.jpg",
+      "description": "No sauce! A covering of garlic, olive oil and herbs, topped with mozzarella cheese"
+    }
+  ]
+}
